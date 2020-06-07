@@ -31,3 +31,5 @@ Here the proposed framework incorporates three modules:
 - Decision Making
 
 The final result is obtained by multiplying the fatigue matrix with a weighted matrix to get the cumulative sum of fatigue which determines the outcome. Then the message “Fatigue Detected” is displayed in the MATLAB command hence indicating that the driver is drowsy and he should immediately stop to prevent an accident. The alert also further gets integrated with the dashboard UI and helps display the message on the screen of the car.
+
+![Screenshot](DrivioFigure.png)
