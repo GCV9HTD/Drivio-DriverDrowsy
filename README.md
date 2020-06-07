@@ -1,4 +1,4 @@
-# Drivio-DriverDrowsy
+# Drivio- Driver Drowsy
 
 Drivio is a drowsiness checking software embedded in the vehicle's dashboard to detect drowsy driving. It issues alerts to take a break if it suspects you're tired. It is proposed to work on a novel method eye, mouth, and head movement recorded during the drive.
 
